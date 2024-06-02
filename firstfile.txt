@@ -1,3 +1,4 @@
 Hello world !!
 get input from users
 add the values
+get variables
