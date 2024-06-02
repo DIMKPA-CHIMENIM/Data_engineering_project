@@ -1,2 +1,0 @@
-name = "chime"
-pass = 2222
